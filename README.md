@@ -35,4 +35,4 @@ npm run dev
 
 ## Demonstração online
 
-LINK DO GITHUB PAGES (se fizer a Parte 3)
+(https://anajugn.github.io/atividade-react/)
